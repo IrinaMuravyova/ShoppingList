@@ -1,5 +1,7 @@
 # <h1 align="center">СПИСОК ПОКУПОК</h1>
 
+[Дизайн Figma](https://www.figma.com/design/rMdgFbxAOEJZoXfvqHQsw1/%25D0%25A1%25D0%25BF%25D0%25B8%25D1%2581%25D0%25BE%25D0%25BA-%25D0%25BF%25D0%25BE%25D0%25BA%25D1%2583%25D0%25BF%25D0%25BE%25D0%25BA--%25D0%25B3%25D1%2580%25D1%2583%25D0%25BF%25D0%25BF%25D0%25B0-2---Copy-?node-id=504-21859&t=npI1rO2GEBDshA9O-0)
+
 # Стек
 
 - UI фреймворк - SwiftUI;
